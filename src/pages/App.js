@@ -10,7 +10,6 @@ class App extends React.Component {
   }
 
   render() {
-    const { test, test2 } = this.props
     return (
       <React.Fragment>
         <CssBaseline />
